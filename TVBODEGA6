@@ -1,0 +1,33 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://mi-television.com/img/logo_2024.png
+group-title="Canales ",MI TV
+https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/KH-g_YGtjU5GdfVyNZlvi40ld8mN0Nf5KQuRxRvGd_McffdR7wA95zLDn7eV0khH_0o.jpg
+group-title="Canales ",TIGO SPORTS GT
+https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sky_Sports_LaLiga.svg/revision/latest/scale-to-width-down/250?cb=20231120144249.jpg
+group-title="Canales ",SKY SPORTS LA LIGA HD
+http://190.92.83.6:8088/german/SZP5WetwUcPh2/6.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sky_Sports_LaLiga.svg/revision/latest/scale-to-width-down/250?cb=20231120144249.jpg
+group-title="Canales ",SKY SPORTS LA LIGA SD
+http://181.78.105.146:2000/play/a08m/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/A%2B_Guate_logo2023.webp
+group-title="Canales ",TVAZTECA a+mas HD
+https://ch2-tva.duin.dev/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Azteca_Guate_2017.png
+group-title="Canales ",TVAZTECA GUATE HD
+https://ch1-tva.duin.dev/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/EcGmj5Qy2FZ4YIuEj1b5gnP_QQSAa_jXjoAD0dkxlB3Q77AlieXQLA963HLpvgG-8w=w240-h480-rw.jpg
+group-title="Canales ",TVRETRO PALMARES
+https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_1045e40ee9f9492ea5f0fbac4ae32d7d~mv2.png/v1/fill/w_480,h_480,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/tvs.png
+group-title="Canales ",TVS RETRO GT
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
